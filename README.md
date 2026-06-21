@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Monu Shah<br><br>💻 Frontend Developer passionate about building modern web applications.<br><br>🚀 Currently learning and working with:<br>- React<br>- Redux Toolkit & RTK Query<br>- Next.js<br>- Node.js & Express<br>- TypeScript<br>- MongoDB<br><br>🌱 Exploring open source and improving my software engineering skills.<br><br>📚 Interested in Web Development, UI/UX, and JavaScript.<br><br>🎯 Goal: To become a professional full-stack developer and contribute to impactful projects.<br><br>⚡ Fun fact: I enjoy learning new technologies and solving real-world problems.
+Hi there 👋, I'm Monu Shah<br><br>💻 Frontend Developer passionate about building modern web applications.<br><br>🌱 Exploring open source and improving my software engineering skills.<br><br>📚 Interested in Web Development, UI/UX, and JavaScript.<br><br>🎯 Goal: To become a professional full-stack developer and contribute to impactful projects.<br><br>⚡ Fun fact: I enjoy learning new technologies and solving real-world problems.
 
 
 ## 🌐 Socials:
@@ -10,9 +10,7 @@ Hi there 👋, I'm Monu Shah<br><br>💻 Frontend Developer passionate about bui
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=monushah108&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=monushah108&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=monushah108&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=monushah108&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
