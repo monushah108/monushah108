@@ -10,7 +10,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=monushah108&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 Tech Stack
 
@@ -36,3 +35,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monu-shah-382317381)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m7shah007@gmail.com)
+
+---
+
+
+![](https://komarev.com/ghpvc/?username=monushah108&label=Profile%20Views&color=0e75b6&style=flat)
