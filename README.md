@@ -10,9 +10,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/monushah108">
-    <img src="https://img.shields.io/github/followers/monushah108?label=Followers&style=flat&logo=github"/>
-  </a>
+  
 
   <img src="https://komarev.com/ghpvc/?username=monushah108&label=Profile%20Views&color=blue&style=flat"/>
 </p>
