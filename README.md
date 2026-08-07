@@ -155,15 +155,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=monushah108&
 
 <p>
 
-<a href="https://github.com/monushah108">
+<!-- <a href="https://github.com/monushah108">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-monushah.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/monu-shah-382317381">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
