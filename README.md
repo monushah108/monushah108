@@ -25,7 +25,7 @@
 
 
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi, I'm **Monu Shah** from India 🇮🇳.
 
@@ -38,7 +38,7 @@ to create modern applications with clean UI and reliable backend systems.
 Currently exploring **System Design, Docker, CI/CD, AWS and AI-powered applications**.
 
 
-<h3 >⚡ Tech Stack</h3>
+<h3 >Tech Stack</h3>
 
 <table width="100%">
 <tr>
@@ -146,7 +146,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=monushah108&
 
 </p>
 
-<h3>🌐 Connect With Me</h3>
+<h3>Connect With Me</h3>
 
 <table width="100%">
 <tr>
@@ -172,7 +172,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=monushah108&
 <br>
 
 <i>
-"Debugging villains after midnight 🦇💻"
+"Debugging villains after midnight "
 </i>
 
 </td>
