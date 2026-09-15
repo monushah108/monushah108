@@ -1,44 +1,26 @@
+<h1 align="center">👋 Hi, I'm Monu Shah</h1>
 
-<h1 align="center">
-  👋 Hi, I'm Monu Shah
-</h1>
-
-
-<h2 align="center">
-  Full Stack Developer • Real-Time Applications • Backend Engineering
-</h2>
-
+<h3 align="center">Full Stack Developer • Real-Time Applications • Backend Engineering</h3>
 
 <p align="center">
-  
-
   <img src="https://komarev.com/ghpvc/?username=monushah108&label=Profile%20Views&color=blue&style=flat"/>
 </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Node.js;Building+Real-Time+Systems;Learning+System+Design+%26+Cloud" />
 </p>
 
+<br>
+
+## About Me
+
+I'm a Full Stack Developer based in India, focused on building scalable, real-time web applications.
+
+I work primarily with **Next.js, React, TypeScript, Node.js, MongoDB, Redis, and Socket.IO** to build applications with clean interfaces and reliable backend systems. I'm currently expanding into **System Design, Docker, CI/CD, AWS, and AI-powered applications**.
 
 <br>
 
-
-
-##  About Me
-
-Hi, I'm **Monu Shah** from India 🇮🇳.
-
-I am a **Full Stack Developer** passionate about building scalable,
-real-time web applications.
-
-I work with **Next.js, React, TypeScript, Node.js, MongoDB, Redis and Socket.IO**
-to create modern applications with clean UI and reliable backend systems.
-
-Currently exploring **System Design, Docker, CI/CD, AWS and AI-powered applications**.
-
-
-<h3 >Tech Stack</h3>
+## Tech Stack
 
 <table width="100%">
 <tr>
@@ -46,48 +28,40 @@ Currently exploring **System Design, Docker, CI/CD, AWS and AI-powered applicati
 <td width="50%" align="center">
 
 <b>Frontend</b>
-
 <br>
-
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
 
 </td>
 
-
 <td width="50%" align="center">
 
 <b>Backend</b>
-
 <br>
-
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6B00?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-FF6B00?style=flat"/>
 <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next_API-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Better_Auth-000000?style=flat&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/Better_Auth-000000?style=flat"/>
 
 </td>
 
 </tr>
 
-
 <tr>
 
 <td width="50%" align="center">
 
-<b> Database & Cache</b>
-
+<b>Database & Cache</b>
 <br>
-
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
@@ -96,13 +70,10 @@ Currently exploring **System Design, Docker, CI/CD, AWS and AI-powered applicati
 
 </td>
 
-
 <td width="50%" align="center">
 
 <b>DevOps & Deployment</b>
-
 <br>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
@@ -113,15 +84,12 @@ Currently exploring **System Design, Docker, CI/CD, AWS and AI-powered applicati
 
 </tr>
 
-
 <tr>
 
 <td colspan="2" align="center">
 
 <b>Tools</b>
-
 <br>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
@@ -134,58 +102,25 @@ Currently exploring **System Design, Docker, CI/CD, AWS and AI-powered applicati
 
 </table>
 
-<h3 align="center">GitHub Stats</h3>
+<br>
+
+## Connect With Me
 
 <p align="center">
-
-<img height="150"
-src="https://github-readme-stats.vercel.app/api?username=monushah108&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true&count_private=true"/>
-
-<img height="150"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=monushah108&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</p>
-
-<h3>Connect With Me</h3>
-
-<table width="100%">
-<tr>
-
-<td width="75%" align="center">
-
-<p>
-
-<!-- <a href="https://github.com/monushah108">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-monushah.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a> -->
-
-<a href="www.linkedin.com/in/monu-shah-382317381">
+<a href="https://www.linkedin.com/in/monu-shah-382317381">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 <br>
 
-<i>
-"Debugging villains after midnight "
-</i>
-
+<table width="100%">
+<tr>
+<td width="85%" align="center">
+<i>Thanks for stopping by — always open to connecting and collaborating on interesting projects.</i>
 </td>
-
-
-<td width="25%" align="center">
-
-<img src="https://media.tenor.com/Eo809pAALoYAAAAj/bat.gif" width="150"/>
-
+<td width="15%" align="center">
+<img src="https://media.tenor.com/Eo809pAALoYAAAAj/bat.gif" width="60"/>
 </td>
-
 </tr>
 </table>
-
-
-</div>
